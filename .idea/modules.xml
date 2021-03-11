@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/nodebird.iml" filepath="$PROJECT_DIR$/nodebird.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nodebird-api/nodebird-api.iml" filepath="$PROJECT_DIR$/../nodebird-api/nodebird-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodecat/nodecat.iml" filepath="$PROJECT_DIR$/../nodecat/nodecat.iml" />
     </modules>
   </component>
 </project>
